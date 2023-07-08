@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://windowscustomization.com/wp-content/uploads/2019/06/Sunset-Cityscape.gif)]
 <h1 align="center">Hi 👋, I'm Klaus</h1>
 <h3 align="center">An undergraduate developer studying Actuarial/CS at UNSW Australia</h3>
 <img align="right" alt="Thinking.." width="400" src="https://media.tenor.com/hjfdAgX4w9EAAAAd/dottore-dottore-genshin.gif">
