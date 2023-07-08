@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Klaus</h1>
 <h3 align="center">An undergraduate developer studying Actuarial/CS at UNSW Australia</h3>
-<img align="right" alt="Thinking.." width="400" src="https://tenor.com/bV1km.gif">
+<img align="right" alt="Thinking.." width="400" src="https://tenor.com/en-AU/view/dottore-dottore-genshin-dottore-hot-genshin-impact-genshin-dottore-gif-26182116">
 
 - 🌱 I’m currently learning **Firebase with JS**
 
