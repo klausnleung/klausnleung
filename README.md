@@ -6,7 +6,7 @@
 <h3 align="center">An undergraduate developer studying Actuarial/CS at UNSW Australia 🏣</h3>
 <img align="right" alt="Thinking.." width="400" src="https://media.tenor.com/hjfdAgX4w9EAAAAd/dottore-dottore-genshin.gif">
 
-- 🌱 I’m currently learning **Firebase with JS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_z2186iHCF5IWBGCsoApHUSr4we9f-pJ/view?usp=sharing](https://drive.google.com/file/d/1_z2186iHCF5IWBGCsoApHUSr4we9f-pJ/view?usp=sharing)
 
